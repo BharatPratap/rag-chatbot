@@ -1,0 +1,20 @@
+streamlit
+pdfplumber
+python-docx
+tqdm
+faiss-cpu
+sentence-transformers
+
+# For embedding + retrieval
+faiss-cpu
+sentence-transformers
+langchain
+langchain_community
+
+# For LLM from Hugging Face
+huggingface_hub
+transformers
+
+# For env config
+python-dotenv
+
