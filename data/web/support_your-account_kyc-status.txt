@@ -1,0 +1,91 @@
+We are here to help you
+Quick Links (10)
+Track Application Status
+Know how to track your account opening application status on Angel One application
+Learn More
+Segment Activation Process
+Learn how to activate F&O, Commodity and Currency segments on Angel One
+Learn More
+Fund Payout Status
+Know all about fund payout/withdrawal process
+Learn More
+Check Order Status
+Learn how to check the status of your order in Angel One app
+Learn More
+Brokerage and Charges
+Know all about the brokerage and charges applicable on your trades
+Learn More
+Fund Addition
+Step by step guide to add funds to your Angel One account
+Learn More
+Bank Account Addition
+Know the process add a new bank account to Angel One
+Learn More
+Profile Modification
+Learn how to modify mobile number, Email ID and other profile details in Angel One
+Learn More
+DDPI (POA) process
+Learn how to activate DDPI and the benefits associated with it
+Learn More
+Refer and Earn
+Know about how refer and earn works on Angel One
+Learn More
+En.
+ही.
+KYC Queries
+Family Declaration
+Opening Your Account
+Account Settings
+Subscription Plans
+Other Services
+KYC Queries
+Account Activation
+Closing Your Account
+MPIN and Fingerprint
+MTF Activation/Deactivation
+View and Update Profile
+Segment Activation
+What is meant by “Signature Validation Issue” on Angel One?
+It could mean that for some reason, your signature could not be validated – it could be either because the signature itself was not valid or for some other reason. But not to worry! Our sales team will reach out to you shortly to help you resolve the issue and complete the KYC process.
+What does “PAN Validation Issue” mean on Angel One?
+This means that there is currently an issue in the process of validating your PAN (Permanent Account Number). It could be because –
+The user’s “Aadhaar Name” and “Name of Authorized Person in the Income Tax Return (ITR)” are different.
+The OCR has failed to capture the PAN data – perhaps the PAN copy or the photograph on the PAN card of the applicant is not clear.
+It could also be because the PAN OCR is disabled.
+However, such issues can be overcome. Our sales team will reach out to you shortly and help you finish your KYC.
+What is the meaning of “Selfie Validation issue” on Angel One?
+This means that your selfie could not be validated because –
+It did not match certain requirements
+Selfie matched with score 69
+But don’t worry! Our sales team will reach out to you shortly and help you resolve the issue.
+What is meant by “Name Mismatch issue” on Angel One?
+This means that there is currently an issue of mismatch among the names submitted in –
+PAN card and address proof or
+PAN card and bank proof.
+Our sales team will reach out to you shortly to provide you with the steps required hereafter to complete the KYC process.
+What is the meaning of “Address Proof Validation Issue”?
+This basically means that there is an issue in validating the address proof because –
+The PAN is non-KRA.
+The QR code on the Aadhaar (proof of address) is not clear.
+The Aadhaar OCR is disabled.
+The address proof is something other than Aadhaar or Digilocker.
+There is mismatch in the addresses submitted in the different documents
+But no worries! Our sales team will reach out to you shortly to provide you with the steps required hereafter to finish your KYC process.
+What is meant by “Bank Details Validation Issue” on Angel One?
+This means that there is an issue in the bank details validation process because –
+IMPS is not applicable.
+Could not perform penny drop verification.
+Our sales team will reach out to you shortly to help you complete the KYC process.
+Still need help?
+Create Ticket
+Want to connect with us?
+Our experts will be happy to assist you
+Connect with us
+Still have any queries? Connect with our support team.
+CONTACT US
+Partnership Request
+For any partnership requests please reach us at
+partners@angelbroking.com
+Media Queries
+022-40003600(Extn: 6925)
+EMAIL US

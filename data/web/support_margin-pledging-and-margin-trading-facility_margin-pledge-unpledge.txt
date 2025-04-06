@@ -1,0 +1,89 @@
+We are here to help you
+Quick Links (10)
+Track Application Status
+Know how to track your account opening application status on Angel One application
+Learn More
+Segment Activation Process
+Learn how to activate F&O, Commodity and Currency segments on Angel One
+Learn More
+Fund Payout Status
+Know all about fund payout/withdrawal process
+Learn More
+Check Order Status
+Learn how to check the status of your order in Angel One app
+Learn More
+Brokerage and Charges
+Know all about the brokerage and charges applicable on your trades
+Learn More
+Fund Addition
+Step by step guide to add funds to your Angel One account
+Learn More
+Bank Account Addition
+Know the process add a new bank account to Angel One
+Learn More
+Profile Modification
+Learn how to modify mobile number, Email ID and other profile details in Angel One
+Learn More
+DDPI (POA) process
+Learn how to activate DDPI and the benefits associated with it
+Learn More
+Refer and Earn
+Know about how refer and earn works on Angel One
+Learn More
+En.
+ही.
+Margin Pledge/Unpledge
+Available Margin to Trade
+Margin Pledge/Unpledge
+Margin Trading Facility
+What is Margin Pledge?
+Margin Pledge also called stock pledge refers to the process of using your existing stocks as collateral for availing additional limits.
+What are the charges for Margin Pledge?
+Pledging of shares is charged a flat transaction fee, irrespective of the quantity pledged. Hence, the fee charged is per scrip and not the volume. So, these charges remain the same whether you pledge 1 share or 100 shares.
+Charges per scrip are Rs 20+GST. The split is as below.
+INR 5 (Depository) + INR 15 (Angel One Charge) + GST
+What is Unpledging of shares?
+Unpledging of shares means release of pledge by paying off the loan amount or clearing your ledger debits & associated dues
+What are the charges for Unpledging of shares?
+Unpledging of shares are charged a flat transaction fee, irrespective of the quantity unpledged.
+Hence, the fee charged is per scrip and not the volume.
+So, these charges remain the same whether you un-pledge 1 share or 100 shares.
+Charges per scrip are Rs 20 +GST.
+What is the process for Margin Pledge?
+Tap on Account at the bottom of your page
+Scroll down to Stock Pledging & click on Pledge stocks
+Click on Increase & select the quantity & shares you wish to pledge
+Click on Increase Margin
+Enter OTP by Angel One
+You will be redirected to the CDSL website where you need to enter the OTP sent by CDSL on your registered mobile number
+Post entering the OTP click on Verify
+Once the pledge is approved, margins will be provided against the pledged stock within 15 minutes
+Where can I see the status of my Margin Pledge request?
+Tap on Account at the bottom of your page
+Scroll down to Stock Pledging & click on Pledge stocks
+Click on Margin Pledge Transactions
+You will be able to see your Margin Pledge transactions from here
+How to Unpledge shares?
+Tap on Account at the bottom of your page
+Scroll down to Stock Pledging & click on Pledge stocks
+Click on Withdraw & select the stocks that you need to Unpledge
+Click on Withdraw Margin
+The stocks will be Unpledged on T+1 day if margin requirements are fulfilled
+Where can I see the status of my Unpledge request?
+Tap on Account at the bottom of your page
+Scroll down to Stock Pledging & click on Pledge stocks
+Click on Margin Pledge Transactions
+You will be able to see your Margin Unpledge transactions from here
+Still need help?
+Create Ticket
+Want to connect with us?
+Our experts will be happy to assist you
+Connect with us
+Still have any queries? Connect with our support team.
+CONTACT US
+Partnership Request
+For any partnership requests please reach us at
+partners@angelbroking.com
+Media Queries
+022-40003600(Extn: 6925)
+EMAIL US

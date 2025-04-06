@@ -1,0 +1,90 @@
+We are here to help you
+Quick Links (10)
+Track Application Status
+Know how to track your account opening application status on Angel One application
+Learn More
+Segment Activation Process
+Learn how to activate F&O, Commodity and Currency segments on Angel One
+Learn More
+Fund Payout Status
+Know all about fund payout/withdrawal process
+Learn More
+Check Order Status
+Learn how to check the status of your order in Angel One app
+Learn More
+Brokerage and Charges
+Know all about the brokerage and charges applicable on your trades
+Learn More
+Fund Addition
+Step by step guide to add funds to your Angel One account
+Learn More
+Bank Account Addition
+Know the process add a new bank account to Angel One
+Learn More
+Profile Modification
+Learn how to modify mobile number, Email ID and other profile details in Angel One
+Learn More
+DDPI (POA) process
+Learn how to activate DDPI and the benefits associated with it
+Learn More
+Refer and Earn
+Know about how refer and earn works on Angel One
+Learn More
+En.
+ही.
+Basket Order
+Watchlist
+Basket Order
+Order Status
+Placing an Order
+Robo order
+Square Off
+Stop loss order
+Types of Orders
+Limit order
+Margin Calculator
+Options
+Order Rejection
+What is a Basket Order?
+Basket Order is a feature that allows you to place multiple orders at the same time in a single click.
+Which segments are allowed within the basket?
+All the market segments, such as Equity (Cash and F&O), Index, Currency, and Commodity are allowed within the basket.
+Which order types are allowed within the basket?
+Order types available within the basket are:
+Limit Order and Market Order
+Delivery, Margin, Carryforward, and Intraday
+Advanced Orders – Stop Loss, Cover, and Robo Order
+Note – Please note that GTT orders cannot be placed inside the basket.
+How many baskets can be created?
+A maximum of 50 baskets can be created and saved. Also, within each basket, a maximum of 20 securities can be added.
+Is there any charge for placing a Basket Order?
+No, there is no additional charge for placing a Basket Order. You just have to pay the existing brokerage for the orders in the basket.
+Is there any specific time to place a Basket Order?
+Basket Orders can be placed only within the market hours i.e., between 9:15 am and 3:15 pm. However, you can create and save the basket anytime during the day.
+Can I clone my basket?
+Yes, you can clone your existing baskets. Additionally, you can also clone any order inside the basket.
+How to check the required margin for placing the Basket Order?
+The required margin and the available margin will be shown upfront in the Basket. To give you the margin benefit, the required margin for the entire basket will be calculated using the SPAN calculator.
+What if the available margin is less than the required margin?
+You can add the funds with the ‘Add Funds’ feature within the Basket to match the required margin.
+What will happen to my basket after execution?
+After placing the Basket Order, the status of individual orders will be shown inside the basket. You can take decisions at the individual order level like modifying a pending order or retrying a failed order.
+Can I see my placed Basket Order the next day?
+If you have saved your basket, then you can see it the next day, but the orders will be reset to the initial state i.e., before placing the Basket Order. However, you won’t be able to see the status of the orders. Please know that if you don’t manually save the basket, it will not appear in the Baskets Tab.
+What is the margin benefit in the Basket?
+When you place individual orders, you do not get a hedging benefit and have to pay the entire required margin upfront. But when you hedge your position in the basket (i.e. combine 2 or more orders), you get the benefit of hedging in terms of lower required margin.
+Can the basket save time in order execution?
+You can save time using Basket Order as multiple orders are placed in one click. So, there is no need to place and execute individual orders.
+Still need help?
+Create Ticket
+Want to connect with us?
+Our experts will be happy to assist you
+Connect with us
+Still have any queries? Connect with our support team.
+CONTACT US
+Partnership Request
+For any partnership requests please reach us at
+partners@angelbroking.com
+Media Queries
+022-40003600(Extn: 6925)
+EMAIL US

@@ -1,0 +1,75 @@
+We are here to help you
+Quick Links (10)
+Track Application Status
+Know how to track your account opening application status on Angel One application
+Learn More
+Segment Activation Process
+Learn how to activate F&O, Commodity and Currency segments on Angel One
+Learn More
+Fund Payout Status
+Know all about fund payout/withdrawal process
+Learn More
+Check Order Status
+Learn how to check the status of your order in Angel One app
+Learn More
+Brokerage and Charges
+Know all about the brokerage and charges applicable on your trades
+Learn More
+Fund Addition
+Step by step guide to add funds to your Angel One account
+Learn More
+Bank Account Addition
+Know the process add a new bank account to Angel One
+Learn More
+Profile Modification
+Learn how to modify mobile number, Email ID and other profile details in Angel One
+Learn More
+DDPI (POA) process
+Learn how to activate DDPI and the benefits associated with it
+Learn More
+Refer and Earn
+Know about how refer and earn works on Angel One
+Learn More
+En.
+ही.
+TPIN
+Bonus Issue
+Buyback
+Dividend
+Holdings/Portfolio
+Rights Issue
+Stock Split
+TPIN
+What is TPIN?
+TPIN stands for Transaction Personal Identification Number.
+CDSL has introduced TPIN, which will enable investors to authorise selling securities from their demat accounts virtually.
+For Non POA clients, TPIN verification will be valid for 1 day.
+Once you generate TPIN, it will be valid till you generate it again. Hence, please make a note of your TPIN for quicker verification.
+An OTP will also be required apart from TPIN for selling shares from demat account.
+How do I generate TPIN?
+Follow the below steps to generate a new TPIN.
+Go to Portfolio section on the App.
+Click on Verify to Sell.
+You will be redirected to CDSL website.
+Now you can either enter the existing TPIN or click on the option to generate TPIN.
+If you choose to generate TPIN, you will need to enter BO ID and PAN details.
+You can find your BO ID in Account → Profile section of the App (Also called as DP ID).
+Once you enter BO ID & PAN and then OTP, your TPIN will be sent to your mobile number and email ID.
+Please make a note of your TPIN so that you can reuse it later.
+How can I sell stocks without TPIN verification?
+You will have to activate DDPI in order to sell stocks without TPIN verification. For entire process to activate DDPI,
+click here
+. You can check your DDPI status on our platform by visiting Account → Profile → View All Categories (under personal details).
+Still need help?
+Create Ticket
+Want to connect with us?
+Our experts will be happy to assist you
+Connect with us
+Still have any queries? Connect with our support team.
+CONTACT US
+Partnership Request
+For any partnership requests please reach us at
+partners@angelbroking.com
+Media Queries
+022-40003600(Extn: 6925)
+EMAIL US

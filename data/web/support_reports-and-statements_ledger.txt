@@ -1,0 +1,80 @@
+We are here to help you
+Quick Links (10)
+Track Application Status
+Know how to track your account opening application status on Angel One application
+Learn More
+Segment Activation Process
+Learn how to activate F&O, Commodity and Currency segments on Angel One
+Learn More
+Fund Payout Status
+Know all about fund payout/withdrawal process
+Learn More
+Check Order Status
+Learn how to check the status of your order in Angel One app
+Learn More
+Brokerage and Charges
+Know all about the brokerage and charges applicable on your trades
+Learn More
+Fund Addition
+Step by step guide to add funds to your Angel One account
+Learn More
+Bank Account Addition
+Know the process add a new bank account to Angel One
+Learn More
+Profile Modification
+Learn how to modify mobile number, Email ID and other profile details in Angel One
+Learn More
+DDPI (POA) process
+Learn how to activate DDPI and the benefits associated with it
+Learn More
+Refer and Earn
+Know about how refer and earn works on Angel One
+Learn More
+En.
+ही.
+Ledger
+Client Master List
+Contract Note
+Holding Statement
+Ledger
+Profit & Loss (P&L Statements)
+Trade History/Sauda Summary
+What is a Ledger Statement?
+Ledger is a record of your account transactions, updated daily.
+It contains details of fund pay-ins and fund withdrawals, payments made for purchases, payments received for sell transactions, and charges incurred.
+It also gives a running balance of the cash limit in your account.
+For details on how to read ledger “
+Click Here
+“
+How can I download Ledger statements?
+You can download your ledger statement by following these steps.
+Login to your Angel One account.
+Go to the Account section in the application.
+You will find the Statements/Ledger section on this screen. Click on it.
+Select the time period.
+Click on the download button on the top right part of the screen.
+When will my funds pay-in be reflected in my ledger?
+Reflection of funds in your account varies with the payment partner / option selected by you –
+Upto 5 minutes – UPI Payments / Google Pay
+Upto 15-30 minutes – Net Banking
+Upto 3 hours – NEFT / RTGS
+When will my ledger be udpated with my trading transactions?
+Your Ledger will be updated with your trading transaction by the end of the trading day.
+When will Funds reflect in my Demat account?
+Reflection of funds in your account varies with the payment partner / option selected by you –
+UPI Payments / Google Pay – Instantly
+Net Banking – Instantly
+NEFT / RTGS – 3-4 Hours
+Still need help?
+Create Ticket
+Want to connect with us?
+Our experts will be happy to assist you
+Connect with us
+Still have any queries? Connect with our support team.
+CONTACT US
+Partnership Request
+For any partnership requests please reach us at
+partners@angelbroking.com
+Media Queries
+022-40003600(Extn: 6925)
+EMAIL US

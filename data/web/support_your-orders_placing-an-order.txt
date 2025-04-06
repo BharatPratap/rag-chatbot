@@ -1,0 +1,91 @@
+We are here to help you
+Quick Links (10)
+Track Application Status
+Know how to track your account opening application status on Angel One application
+Learn More
+Segment Activation Process
+Learn how to activate F&O, Commodity and Currency segments on Angel One
+Learn More
+Fund Payout Status
+Know all about fund payout/withdrawal process
+Learn More
+Check Order Status
+Learn how to check the status of your order in Angel One app
+Learn More
+Brokerage and Charges
+Know all about the brokerage and charges applicable on your trades
+Learn More
+Fund Addition
+Step by step guide to add funds to your Angel One account
+Learn More
+Bank Account Addition
+Know the process add a new bank account to Angel One
+Learn More
+Profile Modification
+Learn how to modify mobile number, Email ID and other profile details in Angel One
+Learn More
+DDPI (POA) process
+Learn how to activate DDPI and the benefits associated with it
+Learn More
+Refer and Earn
+Know about how refer and earn works on Angel One
+Learn More
+En.
+ही.
+Placing an Order
+Watchlist
+Basket Order
+Order Status
+Placing an Order
+Robo order
+Square Off
+Stop loss order
+Types of Orders
+Limit order
+Margin Calculator
+Options
+Order Rejection
+Can I place an order when markets are closed (AMO Order)?
+You can place AMO orders for the next trading day post market closure. AMO orders can be placed normally like a regular buy/sell order which are pushed to the exchange once the market opens.
+What is a Disclosed Quantity?
+Disclosed quantity feature allows you to declare only a part of the actual order to the market that you want to buy/sell.
+Once you specify the disclosed quantity, the order is sent to the exchange and only the disclosed part is shown on the market screen.
+The disclosed quantity should neither be equal to or greater than the order quantity nor should it be less than 10% of the order quantity.
+How can I convert my F&O positions?
+Tap on Orders at the bottom of your screen
+Click on the Order that you wish to convert
+Tap on Convert
+Choose the Product Type & click Submit.
+Your Position will be converted successfully.
+How can I modify my order?
+Tap on Orders at the bottom of your screen
+Click on Open Orders
+Tap on the Order you wish to modify & click on Edit Order
+You will be able to modify your Orders from here
+How can I buy / sell stocks?
+Tap on the share for which you want to place a Buy/Sell Order
+Click on Buy/Sell &
+Select the mode between Delivery, Margin & Intraday
+Enter Quantity, Price & click on Place Buy/Sell Order
+How can I convert my Intraday position into Delivery?
+As of now position conversion is not available in Angel Spark. Will add FAQ’s once its introduced
+PM Comment – It is allowed. Please check point number 6. Make a single point about conversion as the journey is the same
+How can I place a Stop Loss order for my existing position?
+Tap on Orders at the bottom of your screen
+Click on Positions
+Tap on the Order for which you wish to place a Stop Loss
+Tap on the stop loss button at the bottom of the screen
+Enter trigger price, price & click on place Buy/Sell Order
+Still need help?
+Create Ticket
+Want to connect with us?
+Our experts will be happy to assist you
+Connect with us
+Still have any queries? Connect with our support team.
+CONTACT US
+Partnership Request
+For any partnership requests please reach us at
+partners@angelbroking.com
+Media Queries
+022-40003600(Extn: 6925)
+EMAIL US

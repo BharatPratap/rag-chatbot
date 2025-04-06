@@ -1,0 +1,87 @@
+We are here to help you
+Quick Links (10)
+Track Application Status
+Know how to track your account opening application status on Angel One application
+Learn More
+Segment Activation Process
+Learn how to activate F&O, Commodity and Currency segments on Angel One
+Learn More
+Fund Payout Status
+Know all about fund payout/withdrawal process
+Learn More
+Check Order Status
+Learn how to check the status of your order in Angel One app
+Learn More
+Brokerage and Charges
+Know all about the brokerage and charges applicable on your trades
+Learn More
+Fund Addition
+Step by step guide to add funds to your Angel One account
+Learn More
+Bank Account Addition
+Know the process add a new bank account to Angel One
+Learn More
+Profile Modification
+Learn how to modify mobile number, Email ID and other profile details in Angel One
+Learn More
+DDPI (POA) process
+Learn how to activate DDPI and the benefits associated with it
+Learn More
+Refer and Earn
+Know about how refer and earn works on Angel One
+Learn More
+En.
+ही.
+Holdings/Portfolio
+Bonus Issue
+Buyback
+Dividend
+Holdings/Portfolio
+Rights Issue
+Stock Split
+TPIN
+Why are my shares in Pool Account?
+Shares will be in pool account due to 2 reasons:
+Your account is in debit
+Shares have not been settled yet. Shares are settled on Trading day + 2 days.
+Why are my shares that I sold from my Portfolio shown as negative in Positions tab?
+Positions tab shows all the positions taken by you today.
+A negative quantity indicates a sell transaction whereas a positive quantity indicates a buy transaction.
+When will my shares be credited to my demat account?
+Your shares will be credited to your demat account on either T+1 or T+2 trading days depending upon the settlement cycle of the share where T is the trading day.
+What are realized and unrealized gains?
+An unrealized gain/loss is the increase/decrease in the value of an asset or investment that an investor holds but has not yet sold for cash.
+It is called unrealized; gain/loss because the investor hasn’t booked the profit/loss until he actually sells that investment.
+A gain or loss becomes realized when the investment is actually sold.
+How do I check my Portfolio/Holdings?
+Tap on Portfolio at the bottom of your screen
+You will be able to see your Holdings/Portfolio from here
+I bought my shares on BSE. Why are they shown on NSE in my Portfolio?
+We are doing all our settlements in NSE as per our internal policy.
+Follow the below path to sell shares in BSE
+Click on the share you wish to sell from your Portfolio & tap on Sell
+Click on 3 dots on the top right hand corner & change the Exchange from NSE to BSE or vice versa.
+Your share will now be sold on BSE
+When will my portfolio be updated with my latest investments?
+Your Portfolio will be updated with your latest investments on an immediate basis
+Why do I find the average price changed for some stocks in my portfolio?
+3 things that affect the average price change for certain stocks are:
+FIFO (First In, First Out) method is used while calculating the average price
+Changes in corporate action handling for certain stocks
+Changes in decimal digits while calculating the average price.
+Here are all the details about the
+average price change
+you would want to know.
+Still need help?
+Create Ticket
+Want to connect with us?
+Our experts will be happy to assist you
+Connect with us
+Still have any queries? Connect with our support team.
+CONTACT US
+Partnership Request
+For any partnership requests please reach us at
+partners@angelbroking.com
+Media Queries
+022-40003600(Extn: 6925)
+EMAIL US

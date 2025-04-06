@@ -1,0 +1,78 @@
+We are here to help you
+Quick Links (10)
+Track Application Status
+Know how to track your account opening application status on Angel One application
+Learn More
+Segment Activation Process
+Learn how to activate F&O, Commodity and Currency segments on Angel One
+Learn More
+Fund Payout Status
+Know all about fund payout/withdrawal process
+Learn More
+Check Order Status
+Learn how to check the status of your order in Angel One app
+Learn More
+Brokerage and Charges
+Know all about the brokerage and charges applicable on your trades
+Learn More
+Fund Addition
+Step by step guide to add funds to your Angel One account
+Learn More
+Bank Account Addition
+Know the process add a new bank account to Angel One
+Learn More
+Profile Modification
+Learn how to modify mobile number, Email ID and other profile details in Angel One
+Learn More
+DDPI (POA) process
+Learn how to activate DDPI and the benefits associated with it
+Learn More
+Refer and Earn
+Know about how refer and earn works on Angel One
+Learn More
+En.
+ही.
+Square Off
+Watchlist
+Basket Order
+Order Status
+Placing an Order
+Robo order
+Square Off
+Stop loss order
+Types of Orders
+Limit order
+Margin Calculator
+Options
+Order Rejection
+What are the timings for Intraday Square-Off?
+Below are the timings for Intraday Square-Off:
+Equity Segment: 3:15 pm
+Futures Options Segment: 3:20 pm
+Currency Segment: 4:45 pm
+Commodity Segment: 11:15/11:45 pm ( Depending on Daylight Savings Time)
+Why was my position squared off?
+Your position could have been squared off due to any of the below reasons:
+Intraday trades will auto squared off at 3:15 pm for the Cash segment and at 3:20 for the F&O segment.
+Intraday trades will be squared off if you lose 80% of your Available Margin.
+When you don’t maintain the minimum required margin in your account your shares will be squared off 4 days after the shortfall occurs.
+When your shares bought using Margin are down by more than 50% of your fund balance, square-off will be done on the next trading day.
+Shares bought under Margin Product need to be fully paid or pledged, failing which the shared will be squared off after 7 days.
+If your account goes under debit/negative balance, then your shares will be squared off after 7 days.
+Why was my Intraday Position not squared off?
+Your buy/sell position might not be squared off due to upper/lower circuit in that stock.
+In case you have bought the stock and the share is in a lower circuit your shares will be sold the next day.
+In case you have short sold the share there is in upper circuit on the share the shares will be auctioned.
+Still need help?
+Create Ticket
+Want to connect with us?
+Our experts will be happy to assist you
+Connect with us
+Still have any queries? Connect with our support team.
+CONTACT US
+Partnership Request
+For any partnership requests please reach us at
+partners@angelbroking.com
+Media Queries
+022-40003600(Extn: 6925)
+EMAIL US

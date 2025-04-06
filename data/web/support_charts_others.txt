@@ -1,0 +1,69 @@
+We are here to help you
+Quick Links (10)
+Track Application Status
+Know how to track your account opening application status on Angel One application
+Learn More
+Segment Activation Process
+Learn how to activate F&O, Commodity and Currency segments on Angel One
+Learn More
+Fund Payout Status
+Know all about fund payout/withdrawal process
+Learn More
+Check Order Status
+Learn how to check the status of your order in Angel One app
+Learn More
+Brokerage and Charges
+Know all about the brokerage and charges applicable on your trades
+Learn More
+Fund Addition
+Step by step guide to add funds to your Angel One account
+Learn More
+Bank Account Addition
+Know the process add a new bank account to Angel One
+Learn More
+Profile Modification
+Learn how to modify mobile number, Email ID and other profile details in Angel One
+Learn More
+DDPI (POA) process
+Learn how to activate DDPI and the benefits associated with it
+Learn More
+Refer and Earn
+Know about how refer and earn works on Angel One
+Learn More
+Others
+Chart not Loading
+Drawing Tools
+Indicators
+Multi Charts
+Trade From Charts
+Others
+What are the different Charts interface available on Angel One?
+Android and IOS mobile app: Chart IQ and Trading View
+Web: Trading View only
+How to interchange between Chart IQ and Trading View chart in Mobile App?
+On the Android and iOS mobile version, you can simply go to Account > Settings > Scroll down to Charts and choose between ChartIQ or TradingView. Note that you can change the chart version only on the mobile version and not the web application.
+Chart Price scale is changed to logarithmic values. How can i change it back to default settings?
+Follow these steps to adjust your price scale to regular:
+1. Open the chart and check the price scale on the right-hand side of the chart.
+2. Below it, you will find a settings icon (shaped like a sun).
+3. Click this settings icon.
+4. Thereafter, a menu with different options will appear.
+5. Click on ‘Regular’ to bring the price scale back to the default setting.
+Where can I find Chart IQ?
+On the Angel One mobile app, you can find the Chart IQ interface by going to Account > Settings > Scroll down to Charts and choose ChartIQ. Please note that you can change the chart version only on the mobile version and not on the web app.
+We are working on making ChartIQ available on Web as well.
+Is Chart IQ available on web?
+No, Chart IQ is not available on web as of today. Chart IQ is available only on mobile app. We are working on making it available to you on web soon.
+Still need help?
+Create Ticket
+Want to connect with us?
+Our experts will be happy to assist you
+Connect with us
+Still have any queries? Connect with our support team.
+CONTACT US
+Partnership Request
+For any partnership requests please reach us at
+partners@angelbroking.com
+Media Queries
+022-40003600(Extn: 6925)
+EMAIL US

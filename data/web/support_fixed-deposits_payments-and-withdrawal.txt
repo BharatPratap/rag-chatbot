@@ -1,0 +1,82 @@
+We are here to help you
+Quick Links (10)
+Track Application Status
+Know how to track your account opening application status on Angel One application
+Learn More
+Segment Activation Process
+Learn how to activate F&O, Commodity and Currency segments on Angel One
+Learn More
+Fund Payout Status
+Know all about fund payout/withdrawal process
+Learn More
+Check Order Status
+Learn how to check the status of your order in Angel One app
+Learn More
+Brokerage and Charges
+Know all about the brokerage and charges applicable on your trades
+Learn More
+Fund Addition
+Step by step guide to add funds to your Angel One account
+Learn More
+Bank Account Addition
+Know the process add a new bank account to Angel One
+Learn More
+Profile Modification
+Learn how to modify mobile number, Email ID and other profile details in Angel One
+Learn More
+DDPI (POA) process
+Learn how to activate DDPI and the benefits associated with it
+Learn More
+Refer and Earn
+Know about how refer and earn works on Angel One
+Learn More
+Payments and Withdrawal
+Account Verification
+Consent & Security
+Eligibility
+Fixed Deposit Options
+Payments and Withdrawal
+Post Purchase
+What is a payout account?
+A payout account is where your fixed deposit investments will be credited upon maturity. This is the account where you will receive your money back.
+Can I add someone else's bank account details?
+No, the payout account should belong to you. We do not allow the use of another person’s account for payout. Please use an account that is in your name.
+How can I add my bank if it is not in the list?
+Click on the Search tab, enter your bank name, and you will be able to select your bank to add as the payout account for your fixed deposit.
+What should I do if my bank is inactive but my bank details are correct?
+Your payout account must be an active bank account for us to credit the money on maturity or withdrawal. If your bank status is inactive, either add another active bank account or check with your bank regarding your account status.
+Why did I receive an SMS of INR 1 credit?
+We verify your bank account by transferring INR 1. This verification process might result in an SMS from your bank informing you about the credit.
+What should I do if the bank servers are down?
+Retry after some time or use a different bank account.
+What if my payment fails?
+If your payment fails and the amount is deducted, it will be refunded within 2-4 working days. You can place another request for an FD if you are still interested.
+Why did my payment fail?
+Third-party limit error: Check your daily online transaction limit in your net banking, as exceeding this limit will cause the transaction to fail. UPI limit error: UPI transactions have a daily limit of Rs 1 lakh. Ensure you are not exceeding this limit. Bank connection error: Sometimes the connection to your bank’s page or UPI app page may break during payment, causing the transaction to fail.
+What should I do if I haven't received the refund yet?
+Your money is safe. If you haven’t received the refund within 7 working days, check your bank account statement for refund transactions and ensure 7 working days have passed.
+What should I do if I am stuck on the payment step and cannot understand the current status?
+Click on “Go to Dashboard” to track your FDs in the Pending Investments tab.
+What interest rate will I get in case of a premature withdrawal?
+For premature withdrawal, the interest rate applicable will be for the tenure the FD was maintained. A penalty rate will also apply, and the net off penalty rate will be the applicable interest rate.
+When and where will I receive my money in case of a withdrawal?
+You will receive your money within 2 working days after successfully placing withdrawal instructions to the account details provided during the FD booking process.
+Are there any withdrawal processing charges?
+No, there are no withdrawal processing charges.
+How will I know when my withdrawal is completed?
+You will receive an SMS or notification from the bank regarding the crediting of money in your account. The FD booking will be automatically removed post-withdrawal.
+Can I prematurely withdraw my FD?
+Yes, you can prematurely withdraw your Fixed Deposit with Axis Bank and Utkarsh Bank once the lock-in period is completed.
+Still need help?
+Create Ticket
+Want to connect with us?
+Our experts will be happy to assist you
+Connect with us
+Still have any queries? Connect with our support team.
+CONTACT US
+Partnership Request
+For any partnership requests please reach us at
+partners@angelbroking.com
+Media Queries
+022-40003600(Extn: 6925)
+EMAIL US

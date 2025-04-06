@@ -1,0 +1,97 @@
+We are here to help you
+Quick Links (10)
+Track Application Status
+Know how to track your account opening application status on Angel One application
+Learn More
+Segment Activation Process
+Learn how to activate F&O, Commodity and Currency segments on Angel One
+Learn More
+Fund Payout Status
+Know all about fund payout/withdrawal process
+Learn More
+Check Order Status
+Learn how to check the status of your order in Angel One app
+Learn More
+Brokerage and Charges
+Know all about the brokerage and charges applicable on your trades
+Learn More
+Fund Addition
+Step by step guide to add funds to your Angel One account
+Learn More
+Bank Account Addition
+Know the process add a new bank account to Angel One
+Learn More
+Profile Modification
+Learn how to modify mobile number, Email ID and other profile details in Angel One
+Learn More
+DDPI (POA) process
+Learn how to activate DDPI and the benefits associated with it
+Learn More
+Refer and Earn
+Know about how refer and earn works on Angel One
+Learn More
+En.
+ही.
+Account Maintenance Charges
+DP Charges
+Brokerage Charges
+Stock Pledging Charges
+SEBI Charges
+STT (Securities Transaction Tax)
+Stamp Duty
+Transaction / Turnover Charges
+Account Maintenance Charges
+Auto Square Off Charges
+Brokerage Cashback
+Brokerage Plan
+Call and Trade Charges
+DP (Depository Participant) Charges
+GST (Goods & Services Tax)
+Off-Mkt Transaction Charges
+Penal/Delayed Payment Charges
+Pledging Charges
+What is Account Maintenance Charge (AMC) at Angel One?
+Account Maintenance Charge (AMC) is a fixed quarterly charge that is billed to your account.
+Account maintenance charges for the first year are 0. However, the following are the charges for customers from 2nd year onwards.
+Non-BSDA (Basic Services Demat Account) Clients – Rs. 60+ GST billed every quarter (Charged after your first trade each quarter).
+For BSDA Clients –
+If the holding value is less than 4 lakh, AMC is 0.
+If the holding value is between 4 lakh and 10 lakh, AMC is Rs. 100+GST billed every year.
+You can check the AMC levied to your account by navigating to
+Account → Trades and Charges → Other Charges
+screen on the app.
+Where can I check the Account Maintenance Charges levied to my account?
+You can easily check the AMC charges levied to your account in the Angel One app. Please visit
+Account → Trades and Charges → Other Charges
+screen and select the desired data range to check the AMC charges.
+How much is the account maintenance charge on Angel One?
+Account maintenance charges for the first year are 0. However, the following are the charges for customers from 2nd year onwards.
+Non-BSDA (Basic Services Demat Account) Clients – Rs. 60+ GST billed every quarter (Charged after your first trade each quarter).
+For BSDA Clients –
+If the holding value is less than 4 lakh, AMC is 0.
+If the holding value is between 4 lakh and 10 lakh, AMC is Rs. 100+GST billed every year.
+You can check the AMC levied to your account by navigating to
+Account → Trades and Charges → Other Charges
+screen on the app.
+What are BSDA and non-BSDA accounts?
+BSDA (Basic Services Demat Account)
+BSDA accounts provide limited services at a lower cost to retail account holders. Your account will be automatically a BSDA if it fulfills both the below conditions.
+You have only 1 Demat account across all stock brokers.
+The value of holdings in your account is less than 10 lakh.
+Non-BSDA
+Accounts that do not fulfill the above-mentioned criteria of BSDA are categorized as Non-BSDA.
+Where can I check my BSDA status?
+You can check your BSDA status in client master list (CML). However, we don’t have a facility to download the CML from our platform. We are working on making it available to you soon.
+Still need help?
+Create Ticket
+Want to connect with us?
+Our experts will be happy to assist you
+Connect with us
+Still have any queries? Connect with our support team.
+CONTACT US
+Partnership Request
+For any partnership requests please reach us at
+partners@angelbroking.com
+Media Queries
+022-40003600(Extn: 6925)
+EMAIL US

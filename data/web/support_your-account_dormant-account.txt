@@ -1,0 +1,75 @@
+We are here to help you
+Quick Links (10)
+Track Application Status
+Know how to track your account opening application status on Angel One application
+Learn More
+Segment Activation Process
+Learn how to activate F&O, Commodity and Currency segments on Angel One
+Learn More
+Fund Payout Status
+Know all about fund payout/withdrawal process
+Learn More
+Check Order Status
+Learn how to check the status of your order in Angel One app
+Learn More
+Brokerage and Charges
+Know all about the brokerage and charges applicable on your trades
+Learn More
+Fund Addition
+Step by step guide to add funds to your Angel One account
+Learn More
+Bank Account Addition
+Know the process add a new bank account to Angel One
+Learn More
+Profile Modification
+Learn how to modify mobile number, Email ID and other profile details in Angel One
+Learn More
+DDPI (POA) process
+Learn how to activate DDPI and the benefits associated with it
+Learn More
+Refer and Earn
+Know about how refer and earn works on Angel One
+Learn More
+En.
+ही.
+Account Activation
+Family Declaration
+Opening Your Account
+Account Settings
+Subscription Plans
+Other Services
+KYC Queries
+Account Activation
+Closing Your Account
+MPIN and Fingerprint
+MTF Activation/Deactivation
+View and Update Profile
+Segment Activation
+Why did my account get deactivated?
+Your account may become dormant/deactivated due to the following reasons:
+You have not done any financial transaction (trading, pay-in, etc) with Angel One for more than a year.
+If any of the following 6 profile details are missing: name, PAN, address, income range, mobile number, email id
+You have been debarred from trading by SEBI.
+There is an outstanding balance issue.
+How can I reactivate my dormant account?
+To reactivate your account, login to the angel one app on your device or web using the link
+angelone.in/login
+Verify the login using otp sent to your registered mobile number, email
+Post otp verification, you will be shown the dormant status of your account along with the reason
+Click on “Reactivate Account” button
+Confirm your personal details and click on “proceed”
+You will be required to do the 2 factor authentication using your pan number registered with Angel One account
+Post successful 2FA verification, your request will be submitted and your account will be activated within 1-2 working days
+Still need help?
+Create Ticket
+Want to connect with us?
+Our experts will be happy to assist you
+Connect with us
+Still have any queries? Connect with our support team.
+CONTACT US
+Partnership Request
+For any partnership requests please reach us at
+partners@angelbroking.com
+Media Queries
+022-40003600(Extn: 6925)
+EMAIL US
